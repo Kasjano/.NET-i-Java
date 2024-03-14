@@ -1,0 +1,23 @@
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\bin\Debug\net8.0-windows\Problem plecakowy.deps.json
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\bin\Debug\net8.0-windows\Problem plecakowy.runtimeconfig.json
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\bin\Debug\net8.0-windows\Problem plecakowy.exe
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\bin\Debug\net8.0-windows\GUI.exe
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\bin\Debug\net8.0-windows\GUI.dll
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\bin\Debug\net8.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\bin\Debug\net8.0-windows\Problem plecakowy.dll
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\bin\Debug\net8.0-windows\Problem plecakowy.pdb
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\obj\Debug\net8.0-windows\Graficzny_Interfejs_Uzytkownika.Form1.resources
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\obj\Debug\net8.0-windows\GUI.csproj.Up2Date
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\obj\Debug\net8.0-windows\GUI.dll
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\obj\Debug\net8.0-windows\refint\GUI.dll
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\obj\Debug\net8.0-windows\GUI.pdb
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Admin\Desktop\programy\.NET\Problem plecakowy\Graficzny Interfejs Uzytkownika\obj\Debug\net8.0-windows\ref\GUI.dll
